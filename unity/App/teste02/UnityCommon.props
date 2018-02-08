@@ -1,0 +1,9 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <UnityWSASolutionName>teste hololens</UnityWSASolutionName>
+        <UnityWSASolutionDir>D:\JOBS\2018\01 JANEIRO\teste unity\teste-hololens\unity\App\teste02\</UnityWSASolutionDir>
+        <UnityProjectDir>D:\JOBS\2018\01 JANEIRO\teste unity\teste-hololens\unity\</UnityProjectDir>
+        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport\</UnityWSAPlayerDir>
+        <UnityWSAToolsDir>$(UnityWSASolutionDir)Unity\Tools\</UnityWSAToolsDir>
+    </PropertyGroup>
+</Project>
